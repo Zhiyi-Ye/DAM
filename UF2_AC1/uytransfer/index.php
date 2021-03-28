@@ -24,7 +24,7 @@
 
 			    <div class="form-check col-md-4" id="vv">
 			  		<input class="form-check-input" type="checkbox" value="" id="valida" name="validar">
-			  		<label class="form-check-label" for="defaultCheck1">
+			  		<label class="form-check-label" for="valida">
 			    		Quiero enviar el link de descarga por email
 			  		</label>
 				</div>
