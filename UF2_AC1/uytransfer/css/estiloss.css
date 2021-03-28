@@ -1,0 +1,67 @@
+
+#tabla{
+	width: 100%;
+
+}
+
+
+#barra{
+	position: relative;
+	top: 8px;
+}
+
+
+#boton{
+	position: relative;
+	left: 170px;
+}
+
+
+#nom {
+	border: none;
+	outline: none;
+	width: 100%;
+}
+#missatge{
+	position: relative;
+	right: 190px;
+	top: 10px;
+}
+
+#mail{
+	border: none;
+	outline: none;
+	width: 100%;
+}
+
+#nn{
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+#mm{
+	border: 1px solid black;
+
+}
+#vv{
+	position: relative;
+	right: 54px;
+	top: -20px;
+	margin-bottom: 20px;
+}
+
+#ss{
+	border: 1px solid black;
+	width: 445px;
+
+}
+
+#boton1{
+	position: relative;
+	left: 270px;
+	top: -48px;
+}
+
+#fitxe{
+	position: relative;
+	right: 40px;
+}
